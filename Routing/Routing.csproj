@@ -77,6 +77,7 @@
     <Content Include="css\chart.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
+    <Content Include="scripts\angular-chart.min.js" />
     <Content Include="scripts\angular-mocks.js" />
     <None Include="scripts\angular.intellisense.js" />
     <Content Include="scripts\angular.js" />
